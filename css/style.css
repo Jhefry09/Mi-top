@@ -196,7 +196,7 @@ font-size: 1.5em;
   padding-right: 200px;
 }
 #tex{
-  padding-right: 200px;
+  padding-right: 50px;
   display: flex;
   flex-direction: column;
 align-items: center;
